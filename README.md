@@ -15,6 +15,6 @@ NBA Database (1947–Present) by Eoin A. Moore, on Kaggle:
 https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores
 
 ## How to Run:
-Download PlayerStatistics.csv from the Kaggle link above
-Update the file path in driver.py to use your local copy
-Run python driver.py
+- Download PlayerStatistics.csv from the Kaggle link above
+- Update the file path in driver.py to use your local copy
+- Run python driver.py
